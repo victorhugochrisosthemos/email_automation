@@ -10,5 +10,6 @@
 
 ![image](https://github.com/user-attachments/assets/e3064b63-fba7-44a1-9b69-f40c1ee8697f)
 
+  - Nesse momento, é possível indentificar o produto e o segmento correspondente
   - Utilizado um arquivo .csv com orientações de transferência de suportes para outros setores
-  - Ainda não é a represetação da fila correta, mas já podemos entender de qual setor o produto faz parte
+  - Ainda não é a representação da fila correta, mas já podemos entender de qual setor o produto faz parte
