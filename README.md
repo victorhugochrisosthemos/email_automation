@@ -13,3 +13,11 @@
   - Nesse momento, é possível indentificar o produto e o segmento correspondente
   - Utilizado um arquivo .csv com orientações de transferência de suportes para outros setores
   - Ainda não é a representação da fila correta, mas já podemos entender de qual setor o produto faz parte
+
+
+## [Artefato 3](https://github.com/victorhugochrisosthemos/email_automation/tree/main/artifact_three)
+
+![image](https://github.com/user-attachments/assets/5f6b0fbd-c59e-4c63-8e05-a5d51b6dd489)
+
+  - Nesse momento já é possível encontrar e fila do produto devido à melhoria da organização dos dados no arquivo .csv
+  - Já está atendendo as necessidades iniciais do projeto
