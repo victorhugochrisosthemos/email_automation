@@ -1,5 +1,7 @@
 ## Automação de identificação de produtos em e-mails recebidos para orientar qual setor/fila de suporte deve ser encaminhado
 
+
+
 ### [Artefato 1](https://github.com/victorhugochrisosthemos/email_automation/tree/main/artifact_one)
 
 ![image](https://github.com/user-attachments/assets/670e8057-f86e-4086-9d3a-6651232ef760)
@@ -21,3 +23,9 @@
 
   - Nesse momento já é possível encontrar e fila do produto devido à melhoria da organização dos dados no arquivo .csv
   - Já está atendendo as necessidades iniciais do projeto
+
+## [Artefato]()
+
+----------------------------------------------
+
+- Desenvolvido por Victor Hugo e Vitor dos Santos
